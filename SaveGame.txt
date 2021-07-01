@@ -1,0 +1,5 @@
+User health: 555
+User Ammo: 0
+User Stamina: -10
+User Blaster Pistol Damage: 50
+User BowCaster Damage: 100
